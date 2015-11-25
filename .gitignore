@@ -1,0 +1,6 @@
+node_modules/
+.idea/
+.sass-cache/
+*.zip
+read
+.DS_Store
